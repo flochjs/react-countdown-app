@@ -1,0 +1,18 @@
+.root {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.timeUnit {
+  text-align: center;
+
+  padding: 0.3em;
+}
+
+.label {
+  display: block;
+
+  font-size: 0.5em;
+}
